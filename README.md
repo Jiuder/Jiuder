@@ -6,3 +6,11 @@ I love working with WordPress because of its open-source system and its modular 
 
   I believe that to achieve the objectives of a project, there must be always good communication with the development team and should be a pleasant and coordinated atmosphere where all members can express their opinions and ideas without being judged.
 I am an enthusiastic guy who is always willing to learn new things. Among my hobbies are video games, to mention a few such as: Borderlands, Metro Exodus, Bioshock series. I also enjoy watching movies in my spare time.
+
+## Stats:
+<a href="https://github.com/cro22">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiuder&show_icons=true&theme=tokyonight&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/cro22">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jiuder&line_height=27&show_icons=true&theme=tokyonight&show_icons=true&count_private=true" />
+</a>
