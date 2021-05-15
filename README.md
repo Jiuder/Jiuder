@@ -11,9 +11,10 @@ I am an enthusiastic guy who is always willing to learn new things. Among my hob
 - See my profile on [LinkedIn](https://www.linkedin.com/in/jiuder-guillen-6985b7201/)
 - And of course GitHub you're already on (Recursion).
 
-<a href="https://github.com/Jiuder/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiuder&repo=github-readme-stats&langs_count=5" />
+## Stats:
+<a href="https://github.com/Jiuder">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiuder&show_icons=true&theme=tokyonight&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiuder&repo=convoychat&langs_count=5" />
+<a href="https://github.com/Jiuder">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jiuder&line_height=27&show_icons=true&theme=tokyonight&show_icons=true&count_private=true" />
 </a>
