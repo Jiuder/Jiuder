@@ -16,5 +16,5 @@ I am an enthusiastic guy who is always willing to learn new things. Among my hob
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiuder&show_icons=true&theme=tokyonight&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/Jiuder">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Chiper&repo=vivo-delivery-api&line_height=27&show_icons=true&theme=tokyonight&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jiuder&repo=vivo-delivery-api&line_height=27&show_icons=true&theme=tokyonight&show_icons=true&count_private=true" />
 </a>
